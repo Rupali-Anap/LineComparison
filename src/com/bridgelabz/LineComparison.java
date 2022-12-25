@@ -2,7 +2,7 @@ package com.bridgelabz;
 import java.util.Scanner;
 public class LineComparison {
     public static void main(String[] args) {
-        System.out.println("Welcome to Line Comparison Computation Program");
+        System.out.println("Welcome to Line Comparison Program");
         System.out.println("Enter points for first line:");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter point x1: ");
